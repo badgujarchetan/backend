@@ -10,8 +10,7 @@
   },
   "author": "chetan badgujar",
   "license": "ISC",
-  "dependencies": {
-    "dotenv": "^17.2.1",
+  "devDependencies": {
     "nodemon": "^3.1.10"
   }
 }
